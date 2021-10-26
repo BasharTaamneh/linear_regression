@@ -9,7 +9,7 @@
 poetry
 python 3.9.7
 pandas
-jupyterlab  
+jupyterlab    
 sklearn
 ```
 
