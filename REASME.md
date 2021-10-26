@@ -18,7 +18,7 @@ sklearn
 ```bash
 poytry install
 poetry shell
-poetry add pandas jupyterlab sklearn
+poetry add pandas jupyterlab sklearn 
 ```
 
 
