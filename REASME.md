@@ -1,6 +1,6 @@
 # Exploratory Analysis with Linear Regressions
 
-## **Live PR URL** [link1]()
+## **Live PR URL** [link1](https://github.com/BasharTaamneh/linear_regression/pull/1)
 
 
 ## Requirment
